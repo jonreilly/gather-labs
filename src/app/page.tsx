@@ -341,26 +341,13 @@ function Footer() {
 
           <div className="flex items-center gap-4">
             <a
-              href="#"
-              className="p-2 rounded-lg text-muted hover:text-foreground hover:bg-white/5 transition-colors"
-              aria-label="Twitter"
-            >
-              <Twitter className="w-5 h-5" />
-            </a>
-            <a
-              href="#"
+              href="https://www.linkedin.com/in/jonathandanielreilly/"
               className="p-2 rounded-lg text-muted hover:text-foreground hover:bg-white/5 transition-colors"
               aria-label="LinkedIn"
             >
               <Linkedin className="w-5 h-5" />
             </a>
-            <a
-              href="#"
-              className="p-2 rounded-lg text-muted hover:text-foreground hover:bg-white/5 transition-colors"
-              aria-label="GitHub"
-            >
-              <Github className="w-5 h-5" />
-            </a>
+          
           </div>
         </div>
       </div>
