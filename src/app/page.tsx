@@ -130,13 +130,13 @@ function Products() {
   const products = [
     {
       name: "Gather Kitchen",
-      description: "Your intelligent meal planning and grocery companion. Plan meals, generate shopping lists, and discover recipes tailored to your preferences and dietary needs.",
+      description: "Your intelligent meal planning and grocery companion. Order groceries, plan meals, generate shopping lists, auto manage your pantry, and generate allergy friendly recipes tailored to your preferences.",
       icon: ChefHat,
       status: "Beta",
       statusColor: "bg-green-500/20 text-green-400 border-green-500/30",
       link: "https://gatherkitchen.app",
-      gradient: "from-orange-500/20 to-red-500/20",
-      iconColor: "text-orange-400",
+      gradient: "from-[#2F6B55]/30 to-emerald-500/20",
+      iconColor: "text-emerald-400",
     },
     {
       name: "Gather Closet",
